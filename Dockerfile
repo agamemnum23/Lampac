@@ -1,3 +1,3 @@
 FROM immisterio/lampac:latest
-EXPOSE 9118
+EXPOSE 8000
 CMD ["./Lampac"]
