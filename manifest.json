@@ -1,0 +1,7 @@
+{
+  "name": "Lampac",
+  "version": "1.0",
+  "plugins": [
+    "online.js"
+  ]
+}
